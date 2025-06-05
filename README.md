@@ -8,5 +8,3 @@ I make web and desktop apps.
 <a href="https://wakatime.com/@wyu4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wyu4&theme=transparent&layout=compact" />
 </a>
-
-Check out my [website](https://wyu4.vercel.app/) for more information!
