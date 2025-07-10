@@ -1,5 +1,7 @@
 ### Hello👋
-I make web and desktop apps.
+I like coding things.
+
+Check out my (work in progress) [personal website](https://www.wyu.app/).
 
 <a href="https://wakatime.com/@wyu4">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wyu4&theme=transparent&layout=compact" /> -->
